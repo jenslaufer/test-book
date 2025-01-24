@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:850675db-2abd-4190-bd5f-69bf502c4904" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_png" />
+  </head>
+  <docTitle>
+    <text>Stepping Stones: A Guide to Growth, Resilience, and Everyday Progress</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Stepping Stones: A Guide to Growth, Resilience, and Everyday Progress</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#introduction" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>1 The Power of Small Beginnings</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#the-power-of-small-beginnings" />
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>1.1 Why Small Steps Matter</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#why-small-steps-matter" />
+      </navPoint>
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>1.2 Overcoming the Fear of Starting</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#overcoming-the-fear-of-starting" />
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>1.3 A Practical Exercise: The One-Minute Rule</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#a-practical-exercise-the-one-minute-rule" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>1.4 The Ripple Effect</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#the-ripple-effect" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>2 Embracing Failure as a Stepping Stone</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#embracing-failure-as-a-stepping-stone" />
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>2.1 Redefining Failure</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#redefining-failure" />
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+          <text>2.2 Why We Fear Failure</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#why-we-fear-failure" />
+      </navPoint>
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>2.3 How to Fail Forward</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#how-to-fail-forward" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>2.4 A Practical Exercise: Reframe a Past Failure</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#a-practical-exercise-reframe-a-past-failure" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>2.5 The Road to Success is Paved with Failure</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#the-road-to-success-is-paved-with-failure" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>3 The Habit Loop – Building Momentum Through Consistency</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#the-habit-loop-building-momentum-through-consistency" />
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>3.1 The Anatomy of a Habit</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#the-anatomy-of-a-habit" />
+      </navPoint>
+      <navPoint id="navPoint-15">
+        <navLabel>
+          <text>3.2 Why Small Habits Matter</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#why-small-habits-matter" />
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>3.3 The Secret to Building Good Habits</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#the-secret-to-building-good-habits" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>3.4 Breaking Bad Habits</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#breaking-bad-habits" />
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>3.5 A Practical Exercise: Your Keystone Habit</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#a-practical-exercise-your-keystone-habit" />
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>3.6 The Power of Showing Up</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#the-power-of-showing-up" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

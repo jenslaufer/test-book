@@ -1,0 +1,1 @@
+export DOCKER_BUILDKIT=1 && docker build -o release/ . && docker build -o release/. -f Dockerfile-bookdown .

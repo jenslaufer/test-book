@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Stepping Stones: A Guide to Growth, Resilience, and Everyday Progress"
+  subtitle: "Create Headlines That Grab Attention and Drive Results"
+  author: "John Doe"
+  date: "2025-01-20"
+  chapters:
+    - index.qmd
+    - 01.qmd
+    - 02.qmd
+    - 03.qmd
+    
+format:
+  html:
+    cover-image: img/cover.png
+    toc: true
+  pdf:
+    header-includes: |
+      \titlehead{\includegraphics[width=8in]{img/cover.png}}
+    toc: true
+  epub:
+    cover-image: img/cover.png
+    toc: true
