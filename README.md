@@ -2,7 +2,7 @@
 
 Ensure you have Docker installed on your machine.
 
-Build files with: 
+Build book with bookdown and quarto: 
 
 ```shell
 .\build.sh
